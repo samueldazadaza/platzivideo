@@ -1,12 +1,12 @@
-# platzivideo
+# PLATZI-VIDEO
 Proyecto de aprendizaje lenguaje CSS
 
 Proyecto para aprender a maquetar una pagina web y estilizarla
 
 **Aqui 👇🏻 puedes visitar mi pagira **
 
-- [maquetaciön de platzivideo](https://samueldazadaza.github.io/platzivideo/maquetacion-login/iniciar-sesion.html "maquetación login")
-- [maquetaciön de platzivideo](https://samueldazadaza.github.io/platzivideo/maquetacion-principal/maquetación-principal.html "maquetacion principal")
+- [maquetación de login](https://samueldazadaza.github.io/platzivideo/maquetacion-login/iniciar-sesion.html "maquetación login")
+- [maquetación principal](https://samueldazadaza.github.io/platzivideo/maquetacion-principal/maquetacion-principal.html "maquetacion principal")
 
 Algunas capturas de pantalla:
 - Versión desktop:
