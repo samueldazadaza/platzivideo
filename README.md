@@ -3,12 +3,13 @@ Proyecto de aprendizaje lenguaje CSS
 
 Proyecto para aprender a maquetar una pagina web y estilizarla
 
-**Aqui 👇🏻 puedes visitar mi pagira **
+**Aqui 👇🏻 puedes visitar mi pagina **
 
 - [maquetación de login](https://samueldazadaza.github.io/platzivideo/maquetacion-login/iniciar-sesion.html "maquetación login")
 - [maquetación principal](https://samueldazadaza.github.io/platzivideo/maquetacion-principal/maquetacion-principal.html "maquetacion principal")
 
 Algunas capturas de pantalla:
+
 - Versión desktop:
 [![desktop](https://i.imgur.com/7kkHNmj.jpg "desktop")](https://i.imgur.com/7kkHNmj.jpg "desktop")
 
