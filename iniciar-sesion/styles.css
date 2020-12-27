@@ -4,7 +4,7 @@ body {
   }
   .header {
     align-items: center;
-    background-color: #21c08b;
+    background-color: #782ac0;
     color: white;
     display: flex;
     height: 100px;
@@ -17,7 +17,7 @@ body {
     width: 200px;
   }
   .login {
-    background: linear-gradient(#21C08B, #AB88FF);
+    background: linear-gradient(#782ac0, #d313b3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -110,7 +110,7 @@ body {
     margin: 10px 0px;
   }
   .footer {
-    background-color: #AB88FF;
+    background-color:  #d313b3;
     display: flex;
     align-items: center;
     height: 100px;
@@ -140,7 +140,5 @@ body {
     .login__container {
       
       border: none;
-      
-      
     }
   }
